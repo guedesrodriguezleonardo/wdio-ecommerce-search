@@ -7,7 +7,7 @@ describe('Search for items in MercadoLibre', () => {
       await HomePage.openUrl();
       await HomePage.acceptCookies();
       await HomePage.searchItem('camisetas');
-      expect(ResultsPage.itemName).toBeDisplayed();
+      expect(ResultsPage.items).toBeDisplayed();
 
       await ResultsPage.exportPagesItems(3);
     });
