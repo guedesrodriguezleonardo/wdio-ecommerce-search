@@ -10,11 +10,11 @@ This project utilizes the Page Object Pattern, which is a design pattern used to
 - camisetas.txt (This file is generated automatically after each test run and will be overwritten)
 
 ### 📁 /pages
-- basepage.js
+- base.page.js
 
-- homepage.js
+- home.page.js
  
-- resultspage.js
+- results.page.js
 
 ### 📁/tests
 - search.js: 
