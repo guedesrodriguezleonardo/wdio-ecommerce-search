@@ -17,7 +17,7 @@ This project utilizes the Page Object Pattern, which is a design pattern used to
 - results.page.js
 
 ### 📁/tests
-- search.js: 
+- search.js
 
 ## How to run
 To get started with this project, follow the steps below:
